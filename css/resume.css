@@ -91,10 +91,10 @@ h2 {
             display: block; } }
 
 section.resume-section {
-  border-bottom: 1px solid #121010;
+  /* border-bottom: 1px solid #121010; */
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  background-color: #e1f1ff; }
+  background-color: #6CB4EE; }
   section.resume-section .resume-item .resume-date {
     min-width: none; }
 
