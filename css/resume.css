@@ -49,6 +49,12 @@ h2 {
   .list-icons .list-inline-item i:hover {
     color: #474849; }
 
+
+.list-inline-item img {
+  border-radius: 10%; /* Makes the border circular */
+  /* overflow: hidden; This is necessary to make the corners round */
+}
+    
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
   text-transform: uppercase; 
