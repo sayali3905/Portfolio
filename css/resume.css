@@ -130,3 +130,8 @@ a {
   color: #6CB4EE; }
   a:hover, a:focus, a:active {
     color: #474849; }
+
+.d-inline {
+      display: inline;
+    }
+    
